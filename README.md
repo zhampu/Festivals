@@ -55,6 +55,7 @@ This collection of festivals, residence spaces and awards was started at the Mas
   - [Salzamt](http://www.transartists.org/air/atelierhaus-salzamt-linz), Linz, AT
   - [V2](http://www.transartists.org/air/v2_.2002.html), Rotterdam, NL 
   - [Jan van Eyck](http://www.janvaneyck.nl/en/programma/aanmelden/), Maastricht, NL
+  - [European Media Art Platform EMAP](http://www.emare.eu/),Europe
 
 # Awards and Prizes
 
